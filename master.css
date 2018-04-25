@@ -39,10 +39,10 @@ nav a {
 }
 
 .content {
-  border-radius: 0.5%;
   background: rgba(255, 255, 255, 1);
-  min-width: 90%;
-  min-height: 80vh;
+  margin: 3em;
+  min-height: 70vh;
+  min-width: 100%
 }
 
 .content h1 {
